@@ -1,6 +1,6 @@
 {
-    "brand_name": "YourBrand",
-    "brand_domain": "yourbrand.com",
+    "brand_name": "Deriv Bot Trading",
+    "brand_domain": "derivbottrading.com",
     "brand_hostname": {
         "staging": "staging.yourbrand.com/dashboard",
         "production": "yourbrand.com/dashboard"
@@ -79,7 +79,7 @@
         "css_variable_prefix": "--brand"
     },
     "platform": {
-        "name": "DBT",
+        "name": "Deriv Bot Trading",
         "footer": {
             "enable_language_settings": false,
             "enable_theme_toggle": true
