@@ -1,6 +1,6 @@
 {
     "brand_name": "Deriv Bot Trading",
-    "brand_domain": "derivbottrading.com",
+    "brand_domain": "yourbrand.com",
     "brand_hostname": {
         "staging": "staging.yourbrand.com/dashboard",
         "production": "yourbrand.com/dashboard"
